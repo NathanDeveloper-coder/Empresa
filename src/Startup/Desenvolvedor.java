@@ -1,4 +1,4 @@
-package Empresa;
+package Startup;
 
 public class Desenvolvedor extends Funcionario{
     public Desenvolvedor(String nome, String cpf, double salario) {
